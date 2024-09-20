@@ -1,0 +1,102 @@
+# -------------------------------------------------------------------------
+# Review Materi PELCOD 2024 Day-1
+# -------------------------------------------------------------------------
+
+# =========================================================================
+# [TIPEDATA]
+# -------------------------------------------------------------------------
+# Tipedata adalah jenis dari suatu data/ nilai.
+# Jenis-jenis Tipedata:
+#     - Integer (int): 1 | 2 | 3 | 4 | 5 | dst
+#     - Float (float): 1.5 | 2.25 | 30.14 | dst
+#     - String (str): 'hallo'/ "hallo" | "12"/ '12' | '3,14'/ "3.14" | dst
+#     - Boolean (bool): True | False
+# =========================================================================
+
+
+# =========================================================================
+# [VARIABLE]
+# -------------------------------------------------------------------------
+# Variable adalah tempat untuk menyimpan data/ nilai.
+# 
+# Syntax:
+#     namaVariable = _nilai yang disimpan_
+# 
+# Contoh:
+#     namaPanjang = "tatang sutarman".
+#     tanggal_lahir = 10
+#     Umur = 25
+# =========================================================================
+
+
+# =========================================================================
+# [OPERATOR ARITMATIKA]
+# -------------------------------------------------------------------------
+# Tanda atau simbol yang digunakan untuk melakukan operasi matematika,
+# seperti: penjumlahan (+), pengurangan (-), perkalian (*), pembagian (/),
+# sisa hasil bagi (%), dan perpangkatan (**).
+# 
+# Contoh:
+#     2 + 3
+#     1 + 1 * 0
+#     dst...
+# =========================================================================
+
+
+# =========================================================================
+# [OPERATOR PEMBANDING]
+# -------------------------------------------------------------------------
+# Tanda atau simbol yang digunakan untuk melakukan operasi membandingkan
+# antara nilai a dengan nilai lainnya, seperti: kurang dari (<), lebih dari (>),
+# sama dengan (==), kurang dari sama dengan (<=), lebih dari sama dengan (>=), 
+# dan tidak sama dengan (!=).
+# 
+# Contoh: 
+#     300 > 200
+#     "saya" == 'saya'
+#     dst...
+# =========================================================================
+
+
+# =========================================================================
+# [OPERATOR LOGIKA]
+# -------------------------------------------------------------------------
+# Keyword atau kata kunci yang digunakan untuk melakukan operasi logika
+# antar nilai bolean, seperti: dan (and), atau (or), tidak (not), dll.
+# 
+# Contoh: 
+#     True and False
+#     True or True
+#     not True
+#     dst...
+# =========================================================================
+
+
+# =========================================================================
+# [FORMAT STRING]
+# -------------------------------------------------------------------------
+# Konsep/ cara untuk menyambung suatu nilai dengan string.
+# 
+# Syntax: 
+#     "Nama: {}, Angkatan: {}".format(namaPanjang, angkatan)
+#     f"Nama: {namaPanjang}, Angkatan: {angkatan}"
+# =========================================================================
+
+
+# =========================================================================
+# [OUTPUT PRINT]
+# -------------------------------------------------------------------------
+# Menampilkan suatu nilai pada terminal, menggunakan `print()`.
+# 
+# Syntax: 
+#     print(_nilai yang ingin ditampilkan_)
+# 
+# Contoh:
+#     print('Hallo Dunia')
+#     print('Nama saya: ', namaPanjang)
+#     print(f"Tanggal lahir saya: {tanggal_lahir}")
+#     print(1 + 1 * 0)
+#     print(100**0)
+#     print(1 > 2 AND 2 < 3 OR "Tidak" == 'tidak')
+#     dst...
+# =========================================================================
