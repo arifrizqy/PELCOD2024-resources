@@ -1,3 +1,19 @@
+
+# nilai = int(input("Masukkan nilai: ")) 
+
+# if (nilai > 80):
+#     print("selamat anda lulus")
+# elif(nilai > 90 and nilai < 100):
+#     print("selamat anda lulus, dengan nilai yang memuaskan")
+# else:
+#     print("anda masih belum lulus tes, semangat dan coba lagi")
+
+# [FUNCTION]
+#def
+def sayHello():
+    print("Hello martha")
+
+#sayHello()
 # [FUNCTION]
 # def
 def sayHello(param_nama, param_umur):
@@ -54,3 +70,4 @@ fungsi_kurang4 = lambda param_angka : param_angka - 4
 angka = 10
 # 
 print(fungsi_kurang4(angka))
+
